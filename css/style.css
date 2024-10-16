@@ -120,7 +120,7 @@ a {
 .poem {
     position: absolute; /* Đặt vị trí tuyệt đối để dễ dàng căn chỉnh */
     top: 60%; /* Căn giữa theo chiều dọc */
-    left: 200px; /* Căn lề trái */
+    left: 100px; /* Căn lề trái */
     transform: translateY(-50%); /* Đưa lên giữa theo chiều dọc */
     color: #ff4081; /* Màu hồng rực rỡ */
     font-size: 1.7rem; /* Kích thước chữ, có thể điều chỉnh */
